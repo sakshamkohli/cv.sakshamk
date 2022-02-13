@@ -1,0 +1,135 @@
+body{
+  margin: 0;
+  background-color: #EAF6F6;
+  text-align: center;
+  font-family: "Merriweather",sans-serif;
+  }
+  .img0{
+    width: 18%
+  }
+h1{color: #66BFBF;
+  line-height: 2;
+  margin:50;
+   font-family: "Sacramento" , cursive;
+   font-size: 562.5%;
+}
+p{
+  color: #40514E;
+  line-height: 2
+}
+.contact-me{
+  width: 40%;
+  margin: auto;
+}
+hr{
+  border: dotted #C0D8C0 6px;
+  border-bottom: none;
+  width: 4%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+  .btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #1199E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #1199E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #1199E);
+  background-image: -o-linear-gradient(top, #11CDD4, #1199E);
+  background-image: linear-gradient(to bottom, #11CDD4, #1199E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-shadow: 3px 2px 3px #666666;
+  font-family: "Merriweather",sans-serif;
+  color: #060f0f;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  margin-bottom: 100px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+
+.pp{
+  margin-top: 60px;
+  margin-bottom:40px
+}
+.aas{
+  width: 50%
+}
+h2{color: #66BFBF;
+  font-weight: normal;
+  margin:0;
+   font-family: "Montserrat" , sans-serif;
+}
+h3{color: #11999e;
+  margin:0;
+   font-family: "Montserrat" , sans-serif;
+}
+a{
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: .75rem;
+  margin-top: 40px;
+}
+.top-container{
+  background-color: #EAF6F6;
+  position:relative;
+  padding-top: 40px;
+  padding-bottom: 100PX
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-container{
+  margin-top: 150px;
+  background-color: #66BFBF;
+  padding-top: 50PX;
+  padding-bottom: 70PX
+}
+.bottomcloud{
+
+position: absolute;
+}
+.img1{
+  width: 25%;
+  float: left;
+  margin-right: 30px
+}
+.img2{width: 25%;
+  float: right;
+  margin-left: 30px
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2
+}
+.topcloud{
+  position: absolute;
+  margin-bottom: 40px;
+  RIGHT:300px;
+
+}
+.sa{
+  width: 25%;
+  margin: auto;
+}
